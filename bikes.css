@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+.main{
+margin: 10px 10px;
+border-bottom: 3px black solid;
+margin-top: 10px;
+padding: 10px;
+
+
+
+    a{
+        border: 1px solid black;
+        border-radius: 5px;
+        padding: 1px;
+        text-decoration: none;
+        color: black;
+        margin: 10px 10px;
+        margin-right: 160px;
+        color: white;
+        background-color: black;
+    }
+    #book{
+        color: white;
+        background-color: green;
+    }
+    #about{
+        margin-right: 150px;
+    }
+    #book{
+        margin: none;
+        margin-right: 0px;
+    }
+    
+
+        #logo{
+            width: 35px;
+            margin: 0px 0px;
+            border: none;
+            border-radius: 100%;
+            border: 1px solid rgb(232, 235, 35);
+        }
+    
+        }
+        .ten{
+            width: 100px;
+        }
+        img{
+            width: 500px;
+            border-left: 2px solid black;
+            border-right: 2px solid black;
+            margin-left: 350px;
+            margin-bottom: 0px;
+        }
+        
